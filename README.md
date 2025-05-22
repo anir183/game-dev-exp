@@ -4,15 +4,6 @@ My previous experiences with Game Development
 ### Technical
 
 <details>
-  <summary>More Firebase</summary>
-
-  #### More Firebase
-  Firebase user data and profile and logging different users in Unity.
-
-https://github.com/user-attachments/assets/2d6e085c-407f-49a3-9352-b2f870ac3bd2
-</details>
-
-<details>
   <summary>Launcher and Remote Config</summary>
 
   #### Launcher and Remote Config
@@ -28,6 +19,15 @@ https://github.com/user-attachments/assets/78e72ed2-e2c7-42f7-997e-b775af9b279a
   Firebase Authentication using email-password in Unity.
 
 https://github.com/user-attachments/assets/737df24d-ecae-4e6b-9068-1f61bf51e0c6
+</details>
+
+<details>
+  <summary>More Firebase</summary>
+
+  #### More about Firebase
+  Firebase user data and profile and logging different users in Unity.
+
+https://github.com/user-attachments/assets/2d6e085c-407f-49a3-9352-b2f870ac3bd2
 </details>
 
 ### Graphics
