@@ -197,20 +197,20 @@ https://github.com/user-attachments/assets/b5d370d0-3099-4f77-b56f-5be7065f3cce
 </details>
 
 <details>
-  <summary>Player Controller Testing and </summary>
+  <summary>Player Controller Testing and World Mapping</summary>
 
-  #### Heading
-  More details
+  #### Player Controller Testing and World Mapping
+  Creating a player controller and testing ground in Godot.
 
   Click to open in YouTube  
   [![IMAGE ALT TEXT](http://img.youtube.com/vi/8EGWgm_SDpc/0.jpg)](http://www.youtube.com/watch?v=8EGWgm_SDpc)
 </details>
 
 <details>
-  <summary></summary>
+  <summary>Improving lighting and Game Feel</summary>
 
-  #### Heading
-  More details
+  #### Improving lighting and Game Feel
+  Trying out better lighting algorithms and techniques using light probes and baking in Godot.
 
   Click to open in YouTube  
   [![IMAGE ALT TEXT](http://img.youtube.com/vi/rMrxlRBSgXE/0.jpg)](http://www.youtube.com/watch?v=rMrxlRBSgXE)
